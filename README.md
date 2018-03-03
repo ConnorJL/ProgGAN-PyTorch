@@ -5,7 +5,7 @@ This repo is an implementation of the paper [Progressive Growing of GANs for Imp
 
 The most important thing I learned was just what huge amounts of compute this technique takes. I was unfortunately not able to train a model close to the resolutions shown in the paper. Here is the training so far as I got it on celeba:
 
-![celeba]()
+![celeba](https://github.com/ConnorJL/ProgGAN-PyTorch/blob/master/out2.gif?raw=true)
 
 ## How To Use
 
